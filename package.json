@@ -33,11 +33,6 @@
     "react-lifecycles-compat": "^3.0.4",
     "reselect": "^3.0.1"
   },
-  "peerDependencies": {
-    "react": "16.x",
-    "react-dom": "^16.2.0",
-    "react-virtualized": "^9.13.0"
-  },
   "devDependencies": {
     "jest": "^24.8.0",
     "babel-jest": "^22.0.4",
@@ -55,7 +50,7 @@
     "nwb": "^0.21.5",
     "prettier": "1.13.7",
     "prop-types": "^15.6.0",
-    "react": "^16.3.2",
+    "react": "^17.0.2",
     "react-dnd": "^2.5.4",
     "react-dnd-html5-backend": "^2.5.4",
     "react-dom": "^16.2.0",
